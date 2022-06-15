@@ -1,0 +1,16 @@
+body
+{
+    color :red;
+    background: yellow;
+}
+
+.heading
+{
+    width : 80%;
+    font-size: 22px;
+}
+
+.name_of_member
+{
+    color: black;
+}
